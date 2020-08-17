@@ -3,6 +3,13 @@
     background-color:rgb(0, 0, 0);
     size:2in;
 }
+.text1{
+    font-family:"Creepster";
+    font-size: 30px
+}
 body{
     background-color: rgb(195, 228, 11);
+}
+img{
+    max-width:20%;
 }

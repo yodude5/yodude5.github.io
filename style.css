@@ -13,3 +13,7 @@ body{
 img{
     max-width:20%;
 }
+.footer-text{
+    color:rgb(255, 6, 6);
+    font-family:"Creepster";
+}
